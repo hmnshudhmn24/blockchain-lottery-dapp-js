@@ -30,9 +30,3 @@ A decentralized lottery system built on Ethereum using Solidity and React.
    ```bash
    npm start
    ```
-
-## Technologies Used
-- Solidity
-- Hardhat
-- React.js
-- Web3.js
